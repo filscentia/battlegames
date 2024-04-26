@@ -8,6 +8,12 @@ One of the great things about the programs in those books is that they are simpl
 
 The programs are written in both Python and JavaScript - with the aim of running inside [node.js](https://nodejs.org/en/) from the command line. 
 
+
+| Name         | Print from this link                                                                              |
+| ------------ | ------------------------------------------------------------------------------------------------- |
+| RobotMissile | [Printable](https://raw.githubusercontent.com/filscentia/battlegames/main/python/RobotMissile.py) |
+| VitalMessage | [Printable](https://raw.githubusercontent.com/filscentia/battlegames/main/python/VitalMessage.py) |
+
 # FAQs
 *Q* Command Line?
 
